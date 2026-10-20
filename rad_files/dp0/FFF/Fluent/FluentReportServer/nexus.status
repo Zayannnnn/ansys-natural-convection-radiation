@@ -1,0 +1,15 @@
+[launcher]
+pid = 21616
+
+[nginx]
+pid = 22836
+port = 14048
+
+[nexus]
+server_count = 1
+server0_pid = 22972
+server0_port = 22640
+
+[system]
+hostname = MSI
+
